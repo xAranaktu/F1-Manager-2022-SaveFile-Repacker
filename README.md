@@ -9,7 +9,7 @@ Focus on editing the main database :)
 # Requirements
 
 - [DB Browser for SQLite](https://sqlitebrowser.org/dl/) to be able to edit the database (or alternative of your liking)
-- Python3 installed to be able to execute the script
+- [Python3](https://www.python.org/downloads/) installed to be able to execute the script
 
 If you don't have/don't want to install python then you can try the compiled exe from [Releases](https://github.com/xAranaktu/F1-Manager-2022-SaveFile-Repacker/releases)
 
